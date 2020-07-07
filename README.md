@@ -9,7 +9,7 @@
 * Contributors
 * Installation
 * Tests
-* Video of Deployed Application
+* Deployed Application
 
 ## **Description**
 
