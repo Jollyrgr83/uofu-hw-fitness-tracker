@@ -43,4 +43,4 @@ There are currently no tests for this app.
 
 ## **Deployed Application**
 
-![Deployed Application](https://floating-taiga-47773.herokuapp.com/)
+![Deployed Application](https://uofu-homework-fitness.herokuapp.com/)
