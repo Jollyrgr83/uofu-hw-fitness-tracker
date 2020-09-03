@@ -15,7 +15,7 @@ app.use(express.static("public"));
 app.use(require("./routes/api.js"));
 app.use(require("./routes/view.js"));
 // establish db connection
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
+mongoose.connect("mongodb+srv://user1:password1@cluster-fitness-tracker.6g9p2.mongodb.net/heroku_8f8k3n2m?retryWrites=true&w=majority" || "mongodb://localhost/workout", {
   useNewUrlParser: true,
   useFindAndModify: false
 });
